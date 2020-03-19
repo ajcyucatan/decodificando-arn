@@ -5,7 +5,7 @@
 [![Slideshow](https://img.shields.io/badge/view-slides-important?style=popout-square)](https://github.com/ajcyucatan/decodificando-arn/blob/master/notes/slides.pdf "Slideshow")
 [![Binder](https://img.shields.io/badge/launch-binder-9cf?style=popout-square)](https://mybinder.org/v2/gh/ajcyucatan/decodificando-arn/master "Binder")
 
-> [Niní Ortiz](https://github.com/NiniOrtiz) © 2020
+> © 2020, [Niní Ortiz](https://github.com/NiniOrtiz)
 
 En este taller decoficaremos la estructura secundaria del genoma del COVID-19 con Python y el módulo Pandas. Contenido estrenado en [Datostada](https://datostada.mx), celebrado en Marzo 2020.
 
@@ -14,11 +14,9 @@ En este taller decoficaremos la estructura secundaria del genoma del COVID-19 co
 
 Puedes ejecutar el material del taller en la nube o en tu misma computadora:
 
-
 ### En la nube
 
 ¡Haz clic en la insignia de Binder! Luego sólo corre la primera celda para que se configure todo automáticamente *out-of-the-box*.
-
 
 ### En tu computadora
 
