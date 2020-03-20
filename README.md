@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/ajcyucatan/decodificando-arn?style=popout-square)](https://github.com/ajcyucatan/decodificando-arn/blob/master/LICENSE "License")
 [![Repo Size](https://img.shields.io/github/repo-size/ajcyucatan/decodificando-arn?style=popout-square)](https://github.com/ajcyucatan/decodificando-arn.git "Repo Size")
-[![Slideshow](https://img.shields.io/badge/view-slides-00d88e?style=popout-square)](https://github.com/ajcyucatan/decodificando-arn/blob/master/notes/slides.pdf "Slideshow")
+[![Slideshow](https://img.shields.io/badge/view-slides-00d88e?style=popout-square)](https://ajcyucatan.org/workshops/decodificando-arn "Slideshow")
 [![Binder](https://img.shields.io/badge/launch-binder-ff69b4?style=popout-square)](https://mybinder.org/v2/gh/ajcyucatan/decodificando-arn/master "Binder")
 
 > © 2020, [Niní Ortiz](https://github.com/NiniOrtiz)
